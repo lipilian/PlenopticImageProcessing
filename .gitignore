@@ -4,3 +4,9 @@
 *.autosave
 
 *.log
+
+*.zip
+
+DependentInstall/* 
+
+!DependentInstall/PreInstallByLiuHong.sh
