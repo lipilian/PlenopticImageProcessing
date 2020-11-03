@@ -9,4 +9,8 @@
 
 DependentInstall/* 
 
-!DependentInstall/PreInstallByLiuHong.sh
+!DependentInstall/LiuHongPreInstall.sh
+!DependentInstall/OPENCV/PreInstallByLiuHong.sh
+!DependentInsatll/CUDA/CUDA_LIUHONG.sh
+
+build/
