@@ -50,3 +50,8 @@ With a CMake consistent installation of all depoendencies, configuration "should
 Test data, created using blender cycles raytracer, can be found in SampleData folder in the repository. In the [brother](https://github.com/Arne-Petersen/Plenoptic-Simulation) repository @@ you can find the blender package to create your own synthetical data. All MLA and main-lens properties can be controlled for creating realistic plenoptic images.
 
 ### bash script aplied
+
+In DependentInstall folder, I create three sub folder for CUDA, OPENCV, QT. They are for bash script for 3 dependece library install to help the user install those function and software.
+
+### Cmake,
+Cmake to build the file in the build sub folder, if there is not build folder, mkdir one.
